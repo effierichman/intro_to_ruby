@@ -72,29 +72,29 @@ With the following array:
 
 4. Use `.find_all` to find all the numbers greater than 10
 
-5. use `.all?` to check if all the numbers are greater than 0?
+5. Use `.all?` to check if all the numbers are greater than 0?
 
-6. use `any?` to check if there are any numbers that are divisible by 8
+6. Use `any?` to check if there are any numbers that are divisible by 8
 
-7. use `.count` to let you know how many numbers are greater than 4
+7. Use `.count` to let you know how many numbers are greater than 4
 
-8. use `.each_with_index` to print each item times its index
+8. Use `.each_with_index` to print each item times its index
 
 9. `.find` the number that is divisible by 7 and 5 and is greater than 0
 
 10. `.find_index` of the number that is divisible by 5 and 7 and is greater than 0
 
-11. return the `.first` 3 numbers
+11. Return the `.first` 3 numbers
 
-12. return the `.last` 5 numbers
+12. Return the `.last` 5 numbers
 
 13. `.group_by` the modulo of 3 ( `% 3` )
 
-14. use `minmax` to return the smallest and largest number
+14. Use `minmax` to return the smallest and largest number
 
-15. use `.reject` to return all the numbers that are NOT divisible by 3
+15. Use `.reject` to return all the numbers that are NOT divisible by 3
 
-16. use `.select` to return all the numbers divisible by 5
+16. Use `.select` to return all the numbers divisible by 5
 
 &#x1F534; **Commit your work**
 <hr>
