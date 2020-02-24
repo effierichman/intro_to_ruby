@@ -138,6 +138,7 @@ Write a method named `multiply_each_by_five` that will loop over the given `nums
 &#x1F534; **Commit your work**
 <hr>
 
+## Bonus
 ### Methods With a Hash
 
 Use the following given hashes to solve the problems below
